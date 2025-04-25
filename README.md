@@ -16,8 +16,8 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, actu
 -   👯 Estoy interesado en colaborar en proyectos de código abierto.
 -   ✔ Pregúntame lo que quieras, estaré feliz de ayudar<br>
 -   Fuera del mundo tech, 💻 disfruto desarrollando aplicaciones web, 🎮 jugando videojuegos, ⚽ jugando fútbol, 🎵 escuchando música y 🎬 ver series y películas.
-    👾 Además, he trabajado en varios proyectos interesantes que puedes revisar en mi perfil de GitHub.
-    📫 Contáctame en: <a href="jordycastro1756@gmail.com">jordycastro1756@gmail.com</a>
+-   👾 Además, he trabajado en varios proyectos interesantes que puedes revisar en mi perfil de GitHub.
+-   📫 Contáctame en: <a href="jordycastro1756@gmail.com">jordycastro1756@gmail.com</a>
 
 ## Mis habilidades
 
@@ -52,10 +52,10 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, actu
 
 ## Visita mis redes sociales
 
-<a href="https://www.linkedin.com/in/yordicastro/">
+<a href="https://www.linkedin.com/in/yordicastro/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://jordy756-minimalist-portfolio.vercel.app/">
+<a href="https://jordy756-minimalist-portfolio.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 
