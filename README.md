@@ -52,10 +52,10 @@ Soy estudiante de Informática Empresarial en la Universidad de Costa Rica, actu
 
 ## Visita mis redes sociales
 
-<a href="https://www.linkedin.com/in/yordicastro/" target="_blank">
+<a href="https://www.linkedin.com/in/yordicastro/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://jordy756-minimalist-portfolio.vercel.app/" target="_blank">
+<a href="https://jordy756-minimalist-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </a>
 
